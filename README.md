@@ -24,8 +24,5 @@ We use NAML (Neural News Recommendation with Attentive Multi-View Learning) as m
 ### Installation and Usage
 
 1. Clone the repo
-   ```
-[  https://github.com/Anh26535D/HnM-personalized-fashion-recommendation
-   cd HnM-personalized-fashion-recommendation](https://github.com/VHN1305/H-M-RecSys.git)
-   ```
-2. Make data folders structures. You need to import 2 notebook to kaggle in this competition
+   
+2. You need to import 2 notebook to kaggle in this competition
