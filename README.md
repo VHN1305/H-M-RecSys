@@ -1,24 +1,6 @@
 # H-M-RecSys
 Project này là đồ án môn học Hệ gợi ý thuộc trường Đại học Bách Khoa Hà Nội
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation-and-usage">Installation and Usage</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -43,7 +25,7 @@ We use NAML (Neural News Recommendation with Attentive Multi-View Learning) as m
 
 1. Clone the repo
    ```
-[   https://github.com/Anh26535D/HnM-personalized-fashion-recommendation
+[  https://github.com/Anh26535D/HnM-personalized-fashion-recommendation
    cd HnM-personalized-fashion-recommendation](https://github.com/VHN1305/H-M-RecSys.git)
    ```
 2. Make data folders structures. You need to import 2 notebook to kaggle in this competition
