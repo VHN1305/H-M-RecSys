@@ -11,6 +11,10 @@ H&M Group is a family of brands and businesses with 53 online markets and approx
 
 In this competition, H&M Group invites you to develop product recommendations based on data from previous transactions, as well as from customer and product meta data. The available meta data spans from simple data, such as garment type and customer age, to text data from product descriptions, to image data from garment images.
 
+We use the pipepline in the picture below:
+
+![image](https://github.com/user-attachments/assets/3893dd16-4c2b-41d4-b161-a87464a54b79)
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
